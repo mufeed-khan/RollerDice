@@ -15,3 +15,10 @@ input {
   font-weight: bold;
   font-size: 2rem;
 }
+#diceImages img {
+  margin: 5px;
+  width: 150px;
+}
+#diceResult{
+  margin: 25px;
+}
