@@ -1,0 +1,17 @@
+#contianer {
+  font-size: Arial, sans-serif;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+button {
+  cursor: pointer;
+  font-size: 2rem;
+}
+input {
+  width: 100px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 2rem;
+}
